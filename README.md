@@ -1,6 +1,6 @@
-# My [Leetcode-pyspark] Solutions
+# My Leetcode-pyspark Solutions
 
-This repository contains my solutions for accepted submissions on [Leetcode]. These solutions prioritize simplicity over optimal performance. This project focuses exclusively on non-premium problems. I will try to add premium problems in future.
+This repository contains my solutions for accepted submissions on Leetcode. These solutions prioritize simplicity over optimal performance. This project focuses exclusively on non-premium problems. I will try to add premium problems in future.
 
 ## This Project Focus on
 
